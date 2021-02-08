@@ -43,8 +43,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/larry.png
-    #- assets/sassy.jpeg
-    #- assets/homer.png
+    - assets/sassy.jfif
+    - assets/homer.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
