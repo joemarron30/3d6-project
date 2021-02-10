@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
       title: 'THE BOIZ',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('THE BOIZ'),
+          title: const Text('THE BOIZ :)'),
         ),
         body: ListView(
           padding: const EdgeInsets.all(10),
